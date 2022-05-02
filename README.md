@@ -1,4 +1,5 @@
 Если файл не компилируется, то сделайте это в ручную с pyinstaller
+
 pyinstaller rat.py
 
 
